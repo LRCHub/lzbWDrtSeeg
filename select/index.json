@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "crying march",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2026-02-13T23:42:06.425656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "crying march",
+      "artist": "gesunokiwamiotome",
+      "has_synced": true,
+      "path": "select/01_crying_march_gesunokiwamiotome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "crying march",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_crying_march_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "crying march",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_02_crying_march_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "crying march",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_03_crying_march_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "crying march (talk ver.)",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_04_crying_march_(talk_ver.)_ゲスの極み乙女。.txt"
+    }
+  ]
+}
